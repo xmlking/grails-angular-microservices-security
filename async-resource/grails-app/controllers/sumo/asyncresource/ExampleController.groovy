@@ -8,7 +8,7 @@ class ExampleController {
     //def index() {}
 
     def index() {
-        [junk: []]
+        render(view: "index")
     }
 
     @MessageMapping("/hello")
