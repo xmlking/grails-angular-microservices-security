@@ -1,0 +1,6 @@
+rootProject.name = 'grails-angular-microservices-security'
+
+include (
+		'auth-server',
+		'async-resource'
+)
