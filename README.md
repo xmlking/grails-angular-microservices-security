@@ -1,6 +1,7 @@
 Work-In-Progress
 
 Grails microservices security with OAuth or JWT demo
+
 Client: SPA (Angular)
 
 gradle auth-server:run
